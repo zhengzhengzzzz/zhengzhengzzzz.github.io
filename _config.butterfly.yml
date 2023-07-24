@@ -923,6 +923,7 @@ CDN:
   # Add version number to url, true or false
   version: false
 
+  public_dir: ./Hexo/
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
   custom_format:
